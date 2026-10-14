@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-Author-Shiza Noor
+Author-Shiza Noor(apna collegeg)
